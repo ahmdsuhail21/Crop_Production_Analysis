@@ -17,7 +17,7 @@ The agricultural sector in India is marked by significant variability in crop pr
 
 Here is a screenshot of the Power BI dashboard:
 
-![Power BI Dashboard](Cropn.png)
+![Power BI Dashboard](Crop.png)
 
 
 
